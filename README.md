@@ -112,6 +112,7 @@ $ git unstage .
 ### [Commits](https://www.kernel.org/pub/software/scm/git/docs/git-commit.html)
 
 Commit often. You can always squash down your commits before a push.
+It is recomended to use past tense
 ```shell
 $ git commit -m "Fixed IE issues"
 ```
